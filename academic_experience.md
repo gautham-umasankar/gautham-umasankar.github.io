@@ -37,13 +37,14 @@ I have explored various areas of applied quantum physics. My experiences are lis
 
 ## Quantum Assisted AI for the detection of COVID-19
 #### Guide: [Dr. Yong Chen](https://www.physics.purdue.edu/people/faculty/yongchen.php), Purdue University
+#### Collaboration: Dr. Kang Zhang, Kanve Wei, Macau University of Science and Technology
 #### [Conference Presentation](https://www.dropbox.com/s/gu13t4crq36ssrp/2021COVID_Quantum_Short_aimrifs.pptx?dl=0)
 <figure>
-  <img src="/pictures/ring.png" alt="Qubits connected with a ring"
+  <img src="/pictures/Segmented_Lungs.png" alt="Segmented CT Scan"
        width = "200"
        height = "200"
        class = "center"/>
-  <figcaption>Qubits connected to Ring Resonators with tunable couplers, allowing dense connectivity. Picture courtesy: <a href="https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.16.024018">Sumeru Hazra et al.</a>
+  <figcaption> AI segmented CT Scan slices. The colours in the right show different lesion types in the lungs, which allow us to diagnose the condition.
 </figcaption>
 </figure>
 
