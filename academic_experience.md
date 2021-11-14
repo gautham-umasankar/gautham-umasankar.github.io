@@ -2,7 +2,6 @@
 I have explored various areas of applied quantum physics. My experiences are listed in chronological order. They have led me to my current interests.
 
 ## Optimising Cross Resonance Gates in a 7 Qubit Ring-Resonator based Quantum Processor
-![Ring Processor](/pictures/ring.png "Qubits connected to Ring Resonators with tunable couplers, allowing dense connectivity")
 
 <figure>
   <img src="{https://gautham-umasankar/github.io}/pictures/ring.png" alt="Qubits connected with a ring"/
