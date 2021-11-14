@@ -16,11 +16,11 @@ I have explored various areas of applied quantum physics. My experiences are lis
 ## Entangling Logical Qubits in a 10 Qubit Setup
 #### Guide: [Dr. Rainer Helmut Dumke](http://www1.spms.ntu.edu.sg/~rdumke/index.html), Nanyang Technological University, Singapore
 <figure>
-  <img src="/pictures/ring.png" alt="Qubits connected with a ring"
+  <img src="/pictures/entangling_logical_qubits.png" alt="Logical Qubits in a [[4,2,2]] code"
        width = "200"
        height = "200"
        class = "center"/>
-  <figcaption>Qubits connected to Ring Resonators with tunable couplers, allowing dense connectivity. Picture courtesy: <a href="https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.16.024018">Sumeru Hazra et al.</a>
+  <figcaption>Logical qubits in a [[4,2,2]] code, embedded in a Fault Tolerant manner. Picture courtesy: <a href="https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.16.024018">S. Hazra et al.</a>
 </figcaption>
 </figure>
 
@@ -31,12 +31,13 @@ I have explored various areas of applied quantum physics. My experiences are lis
        width = "200"
        height = "200"
        class = "center"/>
-  <figcaption>Qubits connected to Ring Resonators with tunable couplers, allowing dense connectivity. Picture courtesy: <a href="https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.16.024018">Sumeru Hazra et al.</a>
+  <figcaption>Qubits connected to Ring Resonators with tunable couplers, allowing dense connectivity. Picture courtesy: <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.180501">M. Takita et al.</a>
 </figcaption>
 </figure>
 
 ## Quantum Assisted AI for the detection of COVID-19
 #### Guide: [Dr. Yong Chen](https://www.physics.purdue.edu/people/faculty/yongchen.php), Purdue University
+#### [Conference Presentation](https://www.dropbox.com/s/gu13t4crq36ssrp/2021COVID_Quantum_Short_aimrifs.pptx?dl=0)
 <figure>
   <img src="/pictures/ring.png" alt="Qubits connected with a ring"
        width = "200"
