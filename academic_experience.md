@@ -26,6 +26,7 @@ I have explored various areas of applied quantum physics. My experiences are lis
 
 ## Benchmarking the Poor-Man's Coherent Ising Machine
 #### Guide: [Dr. Anil Prabhakar](https://sites.google.com/ee.iitm.ac.in/anilprabhakar/home), Indian Institute of Technology, Madras
+#### [Link to Publication](https://ieeexplore.ieee.org/document/9505840) in IEEE Photonics Summer Topical Conference
 <figure>
   <img src="/pictures/ring.png" alt="Qubits connected with a ring"
        width = "200"
