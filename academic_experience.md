@@ -4,7 +4,7 @@ I have explored various areas of applied quantum physics. My experiences are lis
 ## Optimising Cross Resonance Gates in a 7 Qubit Ring-Resonator based Quantum Processor
 
 <figure>
-  <img src="{https://gautham-umasankar/github.io}/pictures/ring.png" alt="Qubits connected with a ring"/
+  <img src="https://github.com/gautham-umasankar/gautham-umasankar.github.io/pictures/ring.png" alt="Qubits connected with a ring"/
        width = "200"
        height = "200">
   <figcaption>Qubits connected to Ring Resonators with tunable couplers, allowing dense connectivity. Picture courtesy: <a href="https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.16.024018">Sumeru Hazra et al.</a>
