@@ -1,7 +1,3 @@
-layout: page
-title: "Academic Experience"
-permalink: /academic
-
 # Academic Experience
 
 ## Optimising Cross Resonance Gates in a 7 Qubit Ring-Resonator based Quantum Processor
