@@ -1,6 +1,4 @@
-#theme: jekyll-theme-minimal
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "contrast"
+theme: jekyll-theme-minimal
 title: Gautham Umasankar
 description: "All equations speak, we just have to listen"
 future: true
