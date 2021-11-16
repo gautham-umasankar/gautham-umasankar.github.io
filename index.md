@@ -4,3 +4,5 @@ I am an applied physicist and electrical engineer. I love modeling the world and
 ## [Academic Experience](https://gautham-umasankar.github.io/academic_experience.html)
 
 ## [Extracurriculars](https://gautham-umasankar.github.io/extracurriculars.html)
+
+#### This website is still under construction. The above links will have details about my work so far. Please refer [my CV](www.google.com) for other details, as of now. 
