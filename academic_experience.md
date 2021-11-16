@@ -12,7 +12,7 @@ I have explored various areas of applied quantum physics. My experiences are lis
   <figcaption>Qubits connected to Ring Resonators with tunable couplers, allowing dense connectivity. Picture courtesy: <a href="https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.16.024018">Sumeru Hazra et al.</a>
 </figcaption>
 </figure>
-I worked on numerical simulations of the Cross Resonance (CR) gate to estimate gate fidelity and the sources of error. I quantified infidelity based on Leakage and imperfect rotation and calculated the error budget. (Approach based on [this work](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.100.012301) by V. Tripathi et al). I extended this to a multi qubit simulation and developed a Python Library to find gate fidelity and error between any two coupled qubits. 
+I worked on numerical simulations of the Cross Resonance (CR) gate to estimate gate fidelity and the sources of error. I quantified infidelity based on Leakage and imperfect rotation and calculated the error budget. (Approach based on [this work](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.100.012301) by V. Tripathi et al). I extended this to a multi qubit simulation and developed a Python Library to find gate fidelity and error between any two coupled qubits. This allowed us to choose qubit frequencies to minimize collisions and maximize gate fidelity.
 
 I will subsequently start to work on design and cryogenic aspects of this processor and work on experiments related to multiplexed readout. Working in Dr. Vijay's lab has showed me that my current interests are perfectly aligned with this area of research. I hope to pursue a Ph.D. in this field.
 
@@ -25,14 +25,14 @@ I will subsequently start to work on design and cryogenic aspects of this proces
        width = "200"
        height = "200"
        class = "center"/>
-  <figcaption>Logical qubits in a [[4,2,2]] code, embedded in a Fault Tolerant manner. Picture courtesy: <a href="https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.16.024018">S. Hazra et al.</a>
+  <figcaption>Logical qubits in a [[4,2,2]] code, embedded in a Fault Tolerant manner. Picture courtesy: <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.180501">M. Takita et al.</a>
 </figcaption> 
 </figure>
 There have been multiple experimental demonstrations of fault tolerant state preparation in the `[[4,2,2]]` Bacon Shor Code, in both Ion Trap and Superconducting Qubit Platforms. I came up with the thought of an experiment to entangle to the protected qubits in two sets of the `[[4,2,2]]` code. Since the layout of the 10 qubit processor being built in our group was perfectly conducive to this idea, I performed numerical studies to quantify the gate fidelities required for the entanglement of logical qubits to be better than physical qubits. However, this led to the conclusion that our group's setup, which was new, was not at that point yet
 
 ### A Review of Continuous Error Correction Schemes in Superconducting Qubits
 
-We also wanted to see if any continuous error correction schemes could be extended to the layout. I reviewed existing continuous error correction schemese
+We also wanted to see if any continuous error correction schemes could be extended to the layout. I reviewed existing continuous error correction schemes
 ## Benchmarking the Poor-Man's Coherent Ising Machine
 #### Guide: [Dr. Anil Prabhakar](https://sites.google.com/ee.iitm.ac.in/anilprabhakar/home), Indian Institute of Technology, Madras
 #### [Link to Publication](https://ieeexplore.ieee.org/document/9505840) in IEEE Photonics Summer Topical Conference
