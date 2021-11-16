@@ -38,7 +38,7 @@ We also wanted to see if any continuous error correction schemes could be extend
 #### [Link to Publication](https://ieeexplore.ieee.org/document/9505840) in IEEE Photonics Summer Topical Conference
 <figure>
   <img src="/pictures/poor_man_schematic.png" alt="A Schematic of the Coherent Ising Machine"
-       width = "200"
+       width = "400"
        height = "200"
        class = "center"/>
   <figcaption>
