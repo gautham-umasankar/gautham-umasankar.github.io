@@ -21,12 +21,14 @@ I will subsequently start to work on design and cryogenic aspects of this proces
 ##### May 2021 - August 2021
 ### Entangling Logical Qubits
 <figure>
+  <center>
   <img src="/pictures/entangling_logical_qubits.png" alt="Logical Qubits in a [[4,2,2]] code"
        width = "200"
        height = "200"
        class = "center"/>
   <figcaption>Logical qubits in a [[4,2,2]] code, embedded in a Fault Tolerant manner. Picture courtesy: <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.180501">M. Takita et al.</a>
-</figcaption> 
+</figcaption>
+  </center>
 </figure>
 There have been multiple experimental demonstrations of fault tolerant state preparation in the `[[4,2,2]]` Bacon Shor Code, in both Ion Trap and Superconducting Qubit Platforms. I came up with the thought of an experiment to entangle to the protected qubits in two sets of the `[[4,2,2]]` code. Since the layout of the 10 qubit processor being built in our group was perfectly conducive to this idea, I performed numerical studies to quantify the gate fidelities required for the entanglement of logical qubits to be better than physical qubits. However, this led to the conclusion that our group's setup, which was new, was not at that point yet
 
