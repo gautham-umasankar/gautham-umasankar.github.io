@@ -2,6 +2,7 @@
 I have explored various areas of applied quantum physics. My experiences are listed in chronological order. They have led me to my current interests.
 
 ## Optimising Cross Resonance Gates in a 7 Qubit Ring-Resonator based Superconducting Quantum Processor
+<a name = "CRGate"></a>
 #### Master's Thesis Project. Guide: [Dr. R. Vijayaraghavan](https://www.tifr.res.in/~quantro/vijay/index.htm), Tata Institute of Fundamental Research, Mumbai
 ##### August 2021 - Present
 <figure>
