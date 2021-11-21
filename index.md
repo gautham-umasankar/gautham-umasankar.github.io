@@ -3,27 +3,45 @@ I am an applied physicist and electrical engineer. I love modeling the world and
 
 ## [Academic Experience](https://gautham-umasankar.github.io/academic_experience.html)
 
-<p><img src="/pictures/ring.png" alt="Qubits connecte with a ring" style="float:left;width:200px;height:200px;">
-Optimizing Cross Resonance Gates in a 7 Qubit Ring Resonator Connected Superconducting Processor</p>
 
-<!--
 <div class="row">
   <div class="column">
     <img src="/pictures/ring.png" alt="Qubits connected with a ring" width = "200" height = "200">
   </div>
   <div class = "column">
-    <b> Optimizing Cross Resonance Gates in a 7 Qubit Ring Resonator Connected Superconducting Processor </b>
+    <strong> Optimizing Cross Resonance Gates in a 7 Qubit Ring Resonator Connected Superconducting Processor </strong>
   </div>
 </div>
--->
 
-<!--
 <div class "row">
   <div class="column">
     <img src="/pictures/entangling_logical_qubits.png" alt="Entangling logical Qubits" width = "200" height = "200">
   </div>
+  <div class = "column">
+    <strong> Fault Tolerantly Entangling Logical Qubits in a [[4,2,2]] Bacon Shor Code </strong>
+  </div>
 </div>
 
+
+<div class "row">
+  <div class="column">
+    <img src="/pictures/poor_man_schematic.png" alt="The Poor Man's Coherent Ising Machine" width = "400" height = "200">
+  </div>
+  <div class = "column">
+    <strong> Benchmarking and Accelerating the Poor Man's Coherent Ising Machine </strong>
+  </div>
+</div>
+
+<div class "row">
+  <div class="column">
+    <img src="/pictures/Segmented_Lungs.png" alt="Quantum AI for COVID-19 Detection" width = "400" height = "200">
+  </div>
+  <div class = "column">
+    <strong> Quantum Assisted AI for the detection of COVID-19 </strong>
+  </div>
+</div>
+
+<!--
 <div class="row">
   <div class="column">
     <img src="/pictures/poor_man_schematic.png" alt="The Poor Man's Coherent Ising Machine" width = "200" height = "200">
