@@ -8,7 +8,7 @@ I am an applied physicist and electrical engineer. I love modeling the world and
   <div class="column">
     <img src="/pictures/ring.png" alt="Qubits connected with a ring" width = "200" height = "200">
   </div>
-  <div class = "column">
+  <div class = "column2">
     <a style="font-weight:bold" href="https://gautham-umasankar.github.io/academic_experience.html#CRGate">Optimizing Cross Resonance Gates in a 7 Qubit Ring Resonator Connected Superconducting Processor</a> <br>
     Master's Thesis Project. Guide: <a style="font-weight:bold" href="https://www.tifr.res.in/~quantro/vijay/index.htm">Dr. R. Vijayaraghavan</a>, Tata Institute of Fundamental Research, Mumbai <br>
     August 2021 - Present
@@ -19,7 +19,7 @@ I am an applied physicist and electrical engineer. I love modeling the world and
   <div class="column">
     <img src="/pictures/entangling_logical_qubits.png" alt="Entangling Logical Qubits" width = "200" height = "200">
   </div>
-  <div class = "column">
+  <div class = "column2">
     <a style="font-weight:bold" href="https://gautham-umasankar.github.io/academic_experience.html#Entangling">Fault Tolerantly Entangling Logical Qubits in a Bacon Shor Code</a> <br>
     Guide: <a style="font-weight:bold" href="http://www1.spms.ntu.edu.sg/~rdumke/index.html">Dr. Rainer Helmut Dumke</a>, Nanyang Technological University, Singapore<br>
     May 2021 - August 2021
