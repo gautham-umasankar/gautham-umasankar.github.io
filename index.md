@@ -24,8 +24,11 @@ I am an applied physicist and electrical engineer. I love modeling the world and
 
 <div class="row">
   <div class="column">
-    <img src="/pictures/poor_man_schematic.png" alt="The Poor Man's Ising Machine" width = "350" height = "200">
+    <img src="/pictures/poor_man_schematic.png" alt="The Poor Man's Ising Machine" width = "450" height = "200">
   </div>
+</div>
+
+<div class = "row">
   <div class = "column">
     <strong> Accelerating and Benchmarking the Poor Man's Ising Machine </strong>
   </div>
@@ -33,8 +36,11 @@ I am an applied physicist and electrical engineer. I love modeling the world and
 
 <div class="row">
   <div class="column">
-    <img src="/pictures/Segmented_Lungs.png" alt="Segmented CT Scans" width = "400" height = "200">
+    <img src="/pictures/Segmented_Lungs.png" alt="Segmented CT Scans" width = "450" height = "200">
   </div>
+</div>
+
+<div class = "row">
   <div class = "column">
     <strong> Quantum Assisted AI for the detection of COVID-19 </strong>
   </div>
