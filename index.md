@@ -8,7 +8,7 @@ I am an applied physicist and electrical engineer. I love modeling the world and
     <img src="/pictures/ring.png" alt="Qubits connected with a ring" width = "200" height = "200">
   </div>
   <div class = "column">
-    <b> Optimizing Cross Resonance Gates in a 7 Qubit Ring Resonator Connected Superconducting Processor
+    <b> Optimizing Cross Resonance Gates in a 7 Qubit Ring Resonator Connected Superconducting Processor </b>
   </div>
 </div>
 
