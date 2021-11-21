@@ -40,3 +40,8 @@ footer {
     width: 100%;
   }
 }
+
+a[target="_blank"]:after {
+    font-family: 'FontAwesome';
+    content: " \f08e";
+}
