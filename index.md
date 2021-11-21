@@ -33,8 +33,8 @@ I am an applied physicist and electrical engineer. I love modeling the world and
 </div>
 
 <div class = "row">
-    <a style="font-weight:bold" href="https://gautham-umasankar.github.io/academic_experience.html#PoormanIsing">Accelerating and Benchmarking the Poor Man's Ising Machine</a> 
-    Guide: <a style="font-weight:bold" href="https://sites.google.com/ee.iitm.ac.in/anilprabhakar/home">Dr. Anil Prabhakar</a>, Indian Institute of Technology, Madras
+    <a style="font-weight:bold" href="https://gautham-umasankar.github.io/academic_experience.html#PoormanIsing">Accelerating and Benchmarking the Poor Man's Ising Machine</a><br> 
+    Guide: <a style="font-weight:bold" href="https://sites.google.com/ee.iitm.ac.in/anilprabhakar/home">Dr. Anil Prabhakar</a>, Indian Institute of Technology, Madras<br>
     August 2020 - September 2021
   
 </div>
@@ -46,12 +46,11 @@ I am an applied physicist and electrical engineer. I love modeling the world and
 </div>
 
 <div class = "row">
-  <div class = "column">
-    <a style="font-weight:bold" href="https://gautham-umasankar.github.io/academic_experience.html#QAICovid">Quantum Assisted AI</a>
-    Guide: <a style="font-weight:bold" href="https://www.physics.purdue.edu/people/faculty/yongchen.php">Dr. Yong Chen</a>,  Purdue University
-    Collaboration: Dr. Kang Zhang, Kanve Wei, Macau University of Science and Technology
+    <a style="font-weight:bold" href="https://gautham-umasankar.github.io/academic_experience.html#QAICovid">Quantum Assisted AI</a><br>
+    Guide: <a style="font-weight:bold" href="https://www.physics.purdue.edu/people/faculty/yongchen.php">Dr. Yong Chen</a>,  Purdue University<br>
+    Collaboration: Dr. Kang Zhang, Kanve Wei, Macau University of Science and Technology<br>
     May 2020- April 2021
-  </div>
+  
 </div>
 
 
