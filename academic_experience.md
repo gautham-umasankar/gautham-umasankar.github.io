@@ -18,6 +18,7 @@ I worked on numerical simulations of the Cross Resonance (CR) gate to estimate g
 I will subsequently start to work on design and cryogenic aspects of this processor and work on experiments related to multiplexed readout. Working in Dr. Vijay's lab has showed me that my current interests are perfectly aligned with this area of research. I hope to pursue a Ph.D. in this field.
 
 ## Error Correcting Codes in a 10 Qubit Superconducting Quantum Processor
+<a name = "Entangling"></a>
 #### Guide: [Dr. Rainer Helmut Dumke](http://www1.spms.ntu.edu.sg/~rdumke/index.html), Nanyang Technological University, Singapore
 ##### May 2021 - August 2021
 ### Entangling Logical Qubits
@@ -34,7 +35,9 @@ There have been multiple experimental demonstrations of fault tolerant state pre
 ### A Review of Continuous Error Correction Schemes in Superconducting Qubits
 
 We also wanted to see if any continuous error correction schemes could be extended to the layout. I reviewed existing continuous error correction schemes
+
 ## Benchmarking the Poor-Man's Coherent Ising Machine
+<a name = "PoormanIsing"></a>
 #### Guide: [Dr. Anil Prabhakar](https://sites.google.com/ee.iitm.ac.in/anilprabhakar/home), Indian Institute of Technology, Madras
 #### [Link to Publication](https://ieeexplore.ieee.org/document/9505840) in IEEE Photonics Summer Topical Conference
 <figure>
@@ -48,6 +51,7 @@ We also wanted to see if any continuous error correction schemes could be extend
 </figure>
 
 ## Quantum Assisted AI for the detection of COVID-19
+<a name = "QAICovid"></a>
 #### Guide: [Dr. Yong Chen](https://www.physics.purdue.edu/people/faculty/yongchen.php), Purdue University
 #### Collaboration: Dr. Kang Zhang, Kanve Wei, Macau University of Science and Technology
 #### [Conference Presentation](https://www.dropbox.com/s/gu13t4crq36ssrp/2021COVID_Quantum_Short_aimrifs.pptx?dl=0)
