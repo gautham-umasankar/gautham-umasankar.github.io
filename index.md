@@ -3,6 +3,10 @@ I am an applied physicist and electrical engineer. I love modeling the world and
 
 ## [Academic Experience](https://gautham-umasankar.github.io/academic_experience.html)
 
+<p><img src="/pictures/ring.png" alt="Qubits connecte with a ring" style="float:left;width:200px;height:200px;">
+Optimizing Cross Resonance Gates in a 7 Qubit Ring Resonator Connected Superconducting Processor</p>
+
+<!--
 <div class="row">
   <div class="column">
     <img src="/pictures/ring.png" alt="Qubits connected with a ring" width = "200" height = "200">
@@ -11,6 +15,7 @@ I am an applied physicist and electrical engineer. I love modeling the world and
     <b> Optimizing Cross Resonance Gates in a 7 Qubit Ring Resonator Connected Superconducting Processor </b>
   </div>
 </div>
+-->
 
 <!--
 <div class "row">
