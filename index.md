@@ -20,7 +20,7 @@ I am an applied physicist and electrical engineer. I love modeling the world and
     <img src="/pictures/entangling_logical_qubits.png" alt="Entangling Logical Qubits" width = "200" height = "200">
   </div>
   <div class = "column2">
-    <a style="font-weight:bold" href="https://gautham-umasankar.github.io/academic_experience.html#Entangling">Fault Tolerantly Entangling Logical Qubits in a Bacon Shor Code</a> <br>
+    <a style="font-weight:bold" href="https://gautham-umasankar.github.io/academic_experience.html#Entangling">Fault Tolerantly Entangling Logical Qubits in a [[4,2,2]] Bacon Shor Code</a> <br>
     Guide: <a style="font-weight:bold" href="http://www1.spms.ntu.edu.sg/~rdumke/index.html">Dr. Rainer Helmut Dumke</a>, Nanyang Technological University, Singapore<br>
     May 2021 - August 2021
   </div>
@@ -33,8 +33,9 @@ I am an applied physicist and electrical engineer. I love modeling the world and
 </div>
 
 <div class = "row">
-    <a style="font-weight:bold" href="https://gautham-umasankar.github.io/academic_experience.html#PoormanIsing">Accelerating and Benchmarking the Poor Man's Ising Machine</a><br> 
+    <a style="font-weight:bold" href="https://gautham-umasankar.github.io/academic_experience.html#PoormanIsing">Accelerating and Benchmarking the Poor Man's Coherent Ising Machine</a><br> 
     Guide: <a style="font-weight:bold" href="https://sites.google.com/ee.iitm.ac.in/anilprabhakar/home">Dr. Anil Prabhakar</a>, Indian Institute of Technology, Madras<br>
+    Publication: <a style = "font-weight:bold" href = "https://ieeexplore.ieee.org/document/9505840"> Benchmarking the Poor Man's Ising Machine</a>: Gautham Umasankar, Parth Shah et al.  - IEEE Photonics Summer Topical Conference
     August 2020 - September 2021
   
 </div>
@@ -46,7 +47,7 @@ I am an applied physicist and electrical engineer. I love modeling the world and
 </div>
 
 <div class = "row">
-    <a style="font-weight:bold" href="https://gautham-umasankar.github.io/academic_experience.html#QAICovid">Quantum Assisted AI</a><br>
+    <a style="font-weight:bold" href="https://gautham-umasankar.github.io/academic_experience.html#QAICovid">Quantum Assisted AI for COVID-19 Detection from CT Scans</a><br>
     Guide: <a style="font-weight:bold" href="https://www.physics.purdue.edu/people/faculty/yongchen.php">Dr. Yong Chen</a>,  Purdue University<br>
     Collaboration: Dr. Kang Zhang, Kanve Wei, Macau University of Science and Technology<br>
     May 2020- April 2021
