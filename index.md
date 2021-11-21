@@ -13,6 +13,33 @@ I am an applied physicist and electrical engineer. I love modeling the world and
   </div>
 </div>
 
+<div class="row">
+  <div class="column">
+    <img src="/pictures/entangling_logical_qubits.png" alt="Entangling Logical Qubits" width = "200" height = "200">
+  </div>
+  <div class = "column">
+    <strong> Fault Tolerantly Entangling Logical Qubits in a Bacon Shor Code </strong>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <img src="/pictures/poor_man_schematic.png" alt="The Poor Man's Ising Machine" width = "350" height = "200">
+  </div>
+  <div class = "column">
+    <strong> Accelerating and Benchmarking the Poor Man's Ising Machine </strong>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <img src="/pictures/Segmented_Lungs.png" alt="Segmented CT Scans" width = "400" height = "200">
+  </div>
+  <div class = "column">
+    <strong> Quantum Assisted AI for the detection of COVID-19 </strong>
+  </div>
+</div>
+
 
 ## [Extracurriculars](https://gautham-umasankar.github.io/extracurriculars.html)
 
