@@ -3,24 +3,25 @@ I am an applied physicist and electrical engineer. I love modeling the world and
 
 ## [Academic Experience](https://gautham-umasankar.github.io/academic_experience.html)
 
-<div class="row">
-  <div class="column">
-    <img src="/pictures/ring.png" alt="Qubits connected with a ring" width = "200" height = "200">
+<div class = "container">
+  <div class="row">
+    <div class="column">
+      <img src="/pictures/ring.png" alt="Qubits connected with a ring" width = "200" height = "200">
+    </div>
+    <div class="column">
+      <img src="/pictures/entangling_logical_qubits.png" alt="Entangling logical Qubits" width = "200" height = "200">
+    </div>
   </div>
-  <div class="column">
-    <img src="/pictures/entangling_logical_qubits.png" alt="Entangling logical Qubits" width = "200" height = "200">
+
+  <div class="row">
+    <div class="column">
+      <img src="/pictures/poor_man_schematic.png" alt="The Poor Man's Coherent Ising Machine" width = "200" height = "200">
+    </div>
+    <div class="column">
+      <img src="/pictures/Segmented_Lungs.png" alt="Quantum AI for COVID-19 Detection" width = "200" height = "200">
+    </div>
   </div>
 </div>
-
-<div class="row">
-  <div class="column">
-    <img src="/pictures/poor_man_schematic.png" alt="The Poor Man's Coherent Ising Machine" width = "200" height = "200">
-  </div>
-  <div class="column">
-    <img src="/pictures/Segmented_Lungs.png" alt="Quantum AI for COVID-19 Detection" width = "200" height = "200">
-  </div>
-</div>
-
 <!--
 <div class="row">
   <div class="column">
