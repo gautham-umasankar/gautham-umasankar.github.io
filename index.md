@@ -18,7 +18,7 @@ I am an applied physicist and electrical engineer. I love modeling the world and
     <img src="/pictures/entangling_logical_qubits.png" alt="Entangling logical Qubits" width = "200" height = "200">
   </div>
   <div class = "column">
-    <strong> Fault Tolerantly Entangling Logical Qubits in a [[4,2,2]] Bacon Shor Code </strong>
+    <strong> Fault Tolerantly Entangling Logical Qubits in a Bacon Shor Code </strong>
   </div>
 </div>
 
