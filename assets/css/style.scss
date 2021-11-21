@@ -29,11 +29,12 @@ footer {
   padding: 5px;
 }
 .column2 {
-  float: left;
-  width: 66%;
-  padding: 5px;
+    float: left;
+    width: 63%;
+    padding: 5px;
+    margin-top: 6px;
 }
- 
+
 .row::after {
   content: "";
   clear: both;
